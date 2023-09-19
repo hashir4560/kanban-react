@@ -39,6 +39,11 @@
       background-color: #0056b3;
     }
   }
+  /* TaskForm.css */
+.error-text {
+  color: red;
+}
+
   
-  /* Add more styles for the task form as needed */
+  
   

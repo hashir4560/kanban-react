@@ -4,8 +4,7 @@ import '../styles/Board.css';
 import React, { useState } from "react";
 import Column from "./Column";
 import TaskForm from "./TaskForm";
-import { DragDropContext, Droppable } from "react-beautiful-dnd";
-<Droppable droppableId="Backlog"/>
+import { DragDropContext,Droppable } from "react-beautiful-dnd";
 const initialColumns = {
   backlog: {
     title: "Backlog",
