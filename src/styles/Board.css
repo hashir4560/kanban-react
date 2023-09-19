@@ -1,0 +1,11 @@
+/* Board.css */
+.board {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #05466a;
+    min-height: 100vh;
+  }
+  
+  /* Add styles for the board container */
+  
